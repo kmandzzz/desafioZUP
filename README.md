@@ -1,5 +1,8 @@
 # desafioZUP
-:rocket: Desafio técnico como parte do processo seletivo da Zup IT Innovation | Estrelas Fora da Caixa
+Desafio técnico como parte do processo seletivo da Zup IT Innovation | Estrelas Fora da Caixa
+
+<h1>:rocket: Deploy:</h1>
+<pre><a href="https://rickymortyapp.vercel.app/">https://rickymortyapp.vercel.app/</a></pre>
 
 <h3>:page_facing_up: Descrição:</h3>
 Criar uma página consumindo a API do Rick & Morty.
