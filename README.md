@@ -11,7 +11,7 @@ Criar uma página consumindo a API do Rick & Morty.
 <ul>
 <li>HTML: estrutura da página;</li>
 <li>CSS: estilização completa da página;</li>
-<li>JavaScript: interativade.</li>
+<li>JavaScript: interatividade.</li>
 </u>
 
 <h3>:camera: Screenshot:</h3>
